@@ -1,10 +1,42 @@
-content-grid {
-    column-count: 2;
+td.content-block {
+    border-radius: 10px;
+    width: 350px;
+    height: 100px;
+    background-color: rgb(195, 197, 202);
+    text-align: center;
+    border-color: black;
+    vertical-align: middle;
+    opacity: 0.7;
+    font-size: 22px;
 }
 
-content-block {
-    border-radius: 20px;
-    display: block;
-    width: 200px;
-    height: 50px;
+table.grid {
+    margin: auto;
+    border-spacing: 70px;
+    position: relative;
+    top: 25%;
+}
+
+td.content-block:hover {
+    background-color: rgb(153, 153, 153);
+    opacity: 0.9;
+}
+
+body {
+    background-image: url("tam.jpeg");
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.head {
+    text-align: center;
+    position: relative;
+    top: 2%;
+}
+
+a.resume {
+    text-decoration: none;
+    color: black;
 }
