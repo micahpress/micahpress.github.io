@@ -5,3 +5,7 @@ function showResume() {
 function goToGithub() {
     window.location.assign("https://github.com/micahpress");
 }
+
+function goToAbout() {
+    window.location.assign("about.html");
+}
