@@ -1,5 +1,5 @@
 function showResume() {
-    window.location.assign("micah-press-resume.pdf");
+    window.location.assign("content/micah-press-resume.pdf");
 }
 
 function goToGithub() {
@@ -7,5 +7,5 @@ function goToGithub() {
 }
 
 function goToAbout() {
-    window.location.assign("about.html");
+    window.location.assign("content/about.html");
 }
