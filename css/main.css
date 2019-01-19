@@ -8,6 +8,7 @@ td.content-block {
     vertical-align: middle;
     opacity: 0.7;
     font-size: 22px;
+    cursor: pointer;
 }
 
 table.grid {
@@ -36,7 +37,7 @@ body {
     top: 2%;
 }
 
-a.resume {
+a.dull {
     text-decoration: none;
     color: black;
 }
