@@ -80,4 +80,5 @@ div.beta {
     opacity: 0.85;
     top: 15%;
     overflow: auto;
+    padding: 10px;
 }
