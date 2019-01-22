@@ -70,15 +70,5 @@ img.headshot {
 }
 
 div.beta {
-    border-radius: 10px;
-    position: relative;
-    display: block;
-    margin: auto;
-    background-color: rgb(195, 197, 202);
-    width: 22%;
-    text-align: center;
-    opacity: 0.85;
-    top: 15%;
-    overflow: auto;
-    padding: 10px;
+    width: 30%;
 }
