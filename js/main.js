@@ -9,3 +9,7 @@ function goToGithub() {
 function goToAbout() {
     window.location.assign("content/about.html");
 }
+
+function contact() {
+    window.location.assign("content/contact.html");
+}
